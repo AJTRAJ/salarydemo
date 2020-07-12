@@ -1,2 +1,1 @@
-# salarydemo
-HerokuDemo
+# Heroku-Demo
